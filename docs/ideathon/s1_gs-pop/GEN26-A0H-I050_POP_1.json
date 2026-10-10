@@ -1,0 +1,119 @@
+﻿[
+	{
+		"uid": "GS:9872857931284218857",
+		"type": "HTML",
+		"title": "Development of Smart Laundry Drying System",
+		"source": "韓國컴퓨터情報學會論文誌= Journal of the Korea …",
+		"publisher": "scienceon.kisti.re.kr",
+		"article_url": "https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO202210858183171",
+		"cites_url": "https://scholar.google.com/scholar?cites=9872857931284218857&as_sdt=2005&sciodt=2007&hl=en",
+		"fulltext_url": "https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO202210858183171",
+		"related_url": "https://scholar.google.com/scholar?q=related:6QMY2PpvA4kJ:scholar.google.com/&scioq=intitle:smart+intitle:laundry+intitle:drying&hl=en&as_sdt=2007",
+		"abstract": "… a smart laundry drying system for verandas that controls the drying rack by actively responding to climate change. The developed smart laundry drying system receives laundry location …",
+		"rank": 3,
+		"year": 2022,
+		"volume": 0,
+		"issue": 0,
+		"startpage": 0,
+		"endpage": 0,
+		"cites": 1,
+		"ecc": 1,
+		"use": 1,
+		"authors": [
+			"N Kim",
+			"H Lim"
+		]
+	},
+	{
+		"uid": "GS:5007410490430354346",
+		"title": "Enhancement of Accessibility and Sustainability: A Smart Solar-Powered Outdoor Laundry Drying System",
+		"source": "Majlesi Journal of …",
+		"publisher": "oiccpress.com",
+		"article_url": "http://oiccpress.com/mjee/article/view/5033",
+		"cites_url": "https://scholar.google.com/scholar?cites=5007410490430354346&as_sdt=2005&sciodt=2007&hl=en",
+		"fulltext_url": "https://oiccpress.com/mjee/article/download/5033/9002",
+		"related_url": "https://scholar.google.com/scholar?q=related:qnOqhk_lfUUJ:scholar.google.com/&scioq=intitle:smart+intitle:laundry+intitle:drying&hl=en&as_sdt=2007",
+		"abstract": "… of a smart, simple, and low-cost prototype automatic outdoor laundry garment drying system… The aim is to design a system that can automatically move the wet laundry garments outside …",
+		"rank": 1,
+		"year": 2023,
+		"volume": 0,
+		"issue": 0,
+		"startpage": 0,
+		"endpage": 0,
+		"cites": 4,
+		"ecc": 4,
+		"use": 1,
+		"authors": [
+			"MZ Azmi",
+			"KA Ibrahim",
+			"MF Bahari",
+			"ZZ Abidin",
+			"..."
+		]
+	},
+	{
+		"title": "From Reactive to Predictive Smart Home Health Monitoring: Humidity Dynamics of Indoor Laundry Drying Under Contrasting Ventilation Strategies",
+		"source": "2026 IEEE 50th …",
+		"publisher": "ieeexplore.ieee.org",
+		"article_url": "https://ieeexplore.ieee.org/abstract/document/11645273/",
+		"related_url": "https://scholar.google.com/scholar?q=related:v5qh-G3H_mYJ:scholar.google.com/&scioq=intitle:smart+intitle:laundry+intitle:drying&hl=en&as_sdt=2007",
+		"abstract": "… Indoor laundry drying is common in energy-… laundry drying across three conditions in a controlled smart home: a closed non-ventilated room, reactive ventilation activated during drying, …",
+		"rank": 2,
+		"year": 2026,
+		"volume": 0,
+		"issue": 0,
+		"startpage": 0,
+		"endpage": 0,
+		"cites": 0,
+		"ecc": 0,
+		"use": 1,
+		"authors": [
+			"C Hill",
+			"S Awwal",
+			"Y El Saboni",
+			"J Tolson",
+			"..."
+		]
+	},
+	{
+		"uid": "GS:8427696629694771505",
+		"type": "CITATION",
+		"title": "IoT-Enabled Laundry Drying Rack for Smart Home",
+		"source": "Journal of Information Systems …",
+		"cites_url": "https://scholar.google.com/scholar?cites=8427696629694771505&as_sdt=2005&sciodt=2007&hl=en",
+		"related_url": "https://scholar.google.com/scholar?q=related:MbG2z24x9XQJ:scholar.google.com/&scioq=intitle:smart+intitle:laundry+intitle:drying&hl=en&as_sdt=2007",
+		"rank": 4,
+		"year": 2025,
+		"volume": 0,
+		"issue": 0,
+		"startpage": 0,
+		"endpage": 0,
+		"cites": 5,
+		"ecc": 5,
+		"use": 1,
+		"authors": [
+			"K Saraubon",
+			"A Phithakkitnukoon",
+			"P Suksakulchai"
+		]
+	},
+	{
+		"type": "CITATION",
+		"title": "SENSORS AT WORK-Smart Humidity Control for Laundry Rooms-An RH sensor-based line-drying technology will save your silks and holds potential for …",
+		"source": "Sensors-the Journal of Applied Sensing …",
+		"publisher": "[Peterborough, NH: North American …",
+		"related_url": "https://scholar.google.com/scholar?q=related:Si9u1oGtubcJ:scholar.google.com/&scioq=intitle:smart+intitle:laundry+intitle:drying&hl=en&as_sdt=2007",
+		"rank": 5,
+		"year": 2006,
+		"volume": 0,
+		"issue": 0,
+		"startpage": 0,
+		"endpage": 0,
+		"cites": 0,
+		"ecc": 0,
+		"use": 1,
+		"authors": [
+			"J Fetz"
+		]
+	}
+]
