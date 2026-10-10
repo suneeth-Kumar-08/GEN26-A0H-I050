@@ -1,8 +1,8 @@
 # Genesis 2026: Ideathon
 
-## GEN26-A0H-IXXX
+## GEN26-A0H-I050
 ### Team Details
-#### **Team Name** <<Insert Your Team Name>> <br/>
+#### **Team Name** <<Mind Crafters>> <br/>
 #### Team Members
 |         Role    |         👤 Name        |   🎓 Roll Number      |     ⚧️ Gender    |    🏫 Department / Programme   |Hosteller/Dayscholar- Hostel Details                |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:------------------------------:| 
