@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I050
 ### Team Details
-#### **Team Name** <<>> <Mind Crafters/>
+#### **Team Name** <Mind Crafters> <br/>
 #### Team Members
 |         Role    |         👤 Name        |   🎓 Roll Number      |     ⚧️ Gender    |    🏫 Department / Programme   |Hosteller/Dayscholar- Hostel Details                |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:------------------------------:| 
